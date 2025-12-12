@@ -1,0 +1,4 @@
+A=0
+while A<=100:
+    print(A)
+    A+=1
